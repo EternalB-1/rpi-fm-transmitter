@@ -1,4 +1,5 @@
-# FM Transmitter
+#This repository was copied: https://github.com/markondej/fm_transmitter
+# FM Transmitter instruction
 Use the Raspberry Pi as an FM transmitter. Works on every Raspberry Pi board.
 
 Just get an FM receiver, connect a 20 - 40 cm plain wire to the Raspberry Pi's GPIO4 (PIN 7 on GPIO header) to act as an antenna, and you are ready for broadcasting.
