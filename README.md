@@ -17,8 +17,8 @@ sudo apt-get install libraspberrypi-dev
 ```  
 After installing dependencies clone this repository and use `make` command in order to build executable:
 ```
-git clone https://github.com/markondej/fm_transmitter
-cd fm_transmitter
+git clone https://github.com/EternalB-1/rpi-fm-transmitter
+cd rpi-fm-transmitter
 make
 ```
 After a successful build you can start transmitting by executing the "fm_transmitter" program:
